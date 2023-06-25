@@ -21,19 +21,20 @@
 </div>
 
 ###
-
-<h3 align="left">👩‍💻  About Me</h3>
+---
+<h3 align="left">👩‍💻  About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3> 
 
 ###
 
-<p align="left">I'm ... from ....<br>
+<p align="left">I'm Diana Clabel from Lima,Perú</p>
+
+* 🔭 I’m currently working on md-links using Node.js.
   <br>
-  - 🔭 I’m currently working on md-links using Node.js 
+* 📚 I'm currently learning Node.js and Swift. 
   <br>
-  - 📚 I'm currently learning Node.js and Swift 
-  <br>
-  - ⚡ In my free time I ...
-</p>
+* ⚡ In my free time I ...
+
+
 
 ###
 
@@ -56,11 +57,14 @@
 
 </div>
 
-###
 
+
+###
+---
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
 <div align="center">
   
 ![dianaclabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaclabel&theme=tokyonight&rank_icon=github&show_icons=true)
