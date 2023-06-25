@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi! I'm Diana Clabel 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7539F7&width=435&lines=Front+End+Developer+in+process+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+like+to+learn+everything+about+technology++%F0%9F%92%9B)](https://git.io/typing-svg)
 
 <!--
 **dianaclabel/dianaclabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
