@@ -69,25 +69,6 @@
   
 ![dianaclabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaclabel&theme=tokyonight&rank_icon=github&show_icons=true)
 
-</div>
-
-<a href="https://github.com/dianaClabel/codestats-profile-readme">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dianaclabel&repo=data-lovers&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/dianaclabel/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dianaclabel&repo=social-network&theme=tokyonight" />
-</a>
-
-###
-
-<a href="https://github.com/dianaClabel/codestats-profile-readme">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dianaclabel&repo=md-links&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/dianaclabel/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=dianaclabel&repo=card-validation&theme=tokyonight"/>
-</a>
 
 ###
 
