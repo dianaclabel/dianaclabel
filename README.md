@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi! I'm Diana Clabel 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=5381F7FF&width=435&lines=Front+End+Developer+in+process+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+like+to+learn+everything+about+technology++%F0%9F%92%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=e47100&width=435&lines=Front+End+Developer+in+process+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+like+to+learn+everything+about+technology++%F0%9F%92%9B)](https://git.io/typing-svg)
 
 
 </div>
@@ -91,7 +91,7 @@
 
 <div align="center">
   
-![dianaclabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaclabel&theme=tokyonight&rank_icon=github&show_icons=true)
+![dianaclabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaclabel&theme=gruvbox&rank_icon=github&show_icons=true)
 
 </div>
 
