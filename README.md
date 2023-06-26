@@ -25,17 +25,16 @@
 
 ###
 ---
-<h3 align="left">👩‍💻 About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3> 
+<h3 align="left">✨ About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3> 
 
 ###
 
-<p align="left">I'm Diana Clabel from Lima,Perú</p>
+<p align="left">Hi, I'm a web developer passionate about creating engaging and functional experiences in websites and applications. I specialize in creating the visible part of projects, I like to explore, research and experiment with different tools and programming languages, I am excited to keep challenging myself, learning and growing in the field of technology.</p>
 
-* 🔭 I’m currently working on md-links using Node.js.
-  <br>
+* 🌍 I'm based in Perú.
+*  🔭 I’m currently working on md-links using Node.js.
 * 📚 I'm currently learning Node.js and Swift. 
-  <br>
-* ⚡ In my free time I ...
+* ⚡ In my free time I enjoy watching movies and spending time with my friends.
 
 
 
@@ -85,7 +84,7 @@
 
 ###
 ---
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">✨ My Stats :</h3>
 
 ###
 
