@@ -26,11 +26,14 @@
 
 ###
 ---
+
 <h3 align="left">✨ About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3> 
 
 ###
 
 <p align="left">Hi, I'm a web developer passionate about creating engaging and functional experiences in websites and applications. I specialize in creating the visible part of projects, I like to explore, research and experiment with different tools and programming languages, I am excited to keep challenging myself, learning and growing in the field of technology.</p>
+
+<img align="right" width="230px" src="https://media3.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e471kojqky8dtjychodonua10y2yev7kqqyvmgzielb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
 
 * 🌍 I'm based in Perú.
 *  🔭 I’m currently working on md-links using Node.js.
