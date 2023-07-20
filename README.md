@@ -38,8 +38,8 @@
 </br>
 
 * 🌍 I'm based in Perú.
-*  🔭 I’m currently working on md-links using Node.js.
-* 📚 I'm currently learning Node.js and Swift. 
+*  🔭 I’m currently working on Burger Queen Api Client.
+* 📚 I'm currently learning React and Tailwind. 
 * ⚡ In my free time I enjoy watching movies and spending time with my friends.
 
 
