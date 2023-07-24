@@ -95,7 +95,7 @@
 
 <div align="center">
   
-![dianaclabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaclabel&theme=gruvbox&rank_icon=github&show_icons=true)
+![dianaclabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaclabel&theme=gruvbox&rank_icon=github&show_icons=true&bg_color=00000000)
 
 </div>
 
