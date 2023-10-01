@@ -33,7 +33,7 @@
 <p align="left">Hi, I'm a web developer passionate about creating engaging and functional experiences in websites and applications. I specialize in creating the visible part of projects, I like to explore, research and experiment with different tools and programming languages, I am excited to keep challenging myself, learning and growing in the field of technology.</p>
 
 <!--<img align="right" width="270px" src="https://media3.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e471kojqky8dtjychodonua10y2yev7kqqyvmgzielb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>-->
-<img align="right" width="200px" src="https://github.com/dianaclabel/dianaclabel/blob/f5dbac71933ad9425dbfd3661cdf3d8d263a3995/octocat-1690175956444.png">
+<img align="right" width="200px" heigth="300px" src="https://github.com/dianaclabel/dianaclabel/blob/f5dbac71933ad9425dbfd3661cdf3d8d263a3995/octocat-1690175956444.png">
 
 </br>
 
