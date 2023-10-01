@@ -33,7 +33,7 @@
 <p align="left">Hi, I'm a web developer passionate about creating engaging and functional experiences in websites and applications. I specialize in creating the visible part of projects, I like to explore, research and experiment with different tools and programming languages, I am excited to keep challenging myself, learning and growing in the field of technology.</p>
 
 <!--<img align="right" width="270px" src="https://media3.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e471kojqky8dtjychodonua10y2yev7kqqyvmgzielb&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>-->
-<img align="right" width="200px" heigth="300px" src="https://github.com/dianaclabel/dianaclabel/blob/f5dbac71933ad9425dbfd3661cdf3d8d263a3995/octocat-1690175956444.png">
+<img align="right" width="250px" heigth="300px" src="https://github.com/dianaclabel/dianaclabel/blob/f5dbac71933ad9425dbfd3661cdf3d8d263a3995/octocat-1690175956444.png">
 
 </br>
 
@@ -67,9 +67,9 @@
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
+<!--   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height='30'/>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> -->
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
@@ -92,9 +92,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="36" height="36" /> 
   </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > 
+<!--   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" height='30'/>
-  </a>
+  </a> -->
 
 </div>
 
