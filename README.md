@@ -89,9 +89,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36"/>
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > 
+<!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="36" height="36" /> 
-  </a> 
+  </a>  -->
 <!--   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" > 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" height='30'/>
   </a> -->
